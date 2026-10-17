@@ -12,7 +12,6 @@
 <a href="mailto:poojap356@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-0B1020?style=for-the-badge&logo=gmail&logoColor=F472B6" alt="Email"/></a>
 </p>
 
-<img src="https://visitcount.itsvg.in/api?id=PoojaAnbalagan&icon=5&color=6" alt="Profile views counter"/>
 
 <sub>BSc (Hons) Data Science · Sabaragamuwa University of Sri Lanka</sub>
 
