@@ -35,15 +35,15 @@ I’m a **Data Science undergraduate** interested in the full journey from **raw
 
 **DATA SCIENCE & AI**
 
-<img src="https://skillicons.dev/icons?i=python,r,sklearn,tensorflow,pandas,numpy&theme=dark&perline=6" alt="Data science and AI technologies"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 
 **APPLICATIONS & DATA**
 
-<img src="https://skillicons.dev/icons?i=react,javascript,tailwind,django,fastapi,mysql,postgres,sqlite&theme=dark&perline=8" alt="Application and database technologies"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222222" alt="JavaScript"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
 
 **ENGINEERING & TOOLS**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,linux,vscode&theme=dark&perline=6" alt="Engineering and developer tools"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=222222" alt="Linux"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
 
 <img src="https://img.shields.io/badge/NLP-TF--IDF%20%7C%20VADER-312E81?style=for-the-badge" alt="NLP methods"/>
 <img src="https://img.shields.io/badge/ANALYTICS-POWER%20BI-713F12?style=for-the-badge&logo=powerbi&logoColor=FDE047" alt="Power BI"/>
@@ -58,7 +58,7 @@ I’m a **Data Science undergraduate** interested in the full journey from **raw
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Review Sentiment Intelligence
+### 🧠 [Review Sentiment Intelligence](https://github.com/PoojaAnbalagan/SENTIMENTAL-ANALYSIS)
 
 **NLP · Machine Learning · Deployment**
 
@@ -74,7 +74,7 @@ A sentiment-analysis workflow built around **22K+ restaurant customer reviews**.
 </td>
 <td width="50%" valign="top">
 
-### 🌱 RelaunchHer
+### 🌱 [RelaunchHer](https://github.com/PoojaAnbalagan/relaunch_her)
 
 **Social Impact · Full Stack**
 
@@ -93,7 +93,7 @@ A platform designed to support women returning to the workforce with opportuniti
 <tr>
 <td width="50%" valign="top">
 
-### 🐾 Barking Shelter
+### 🐾 [Barking Shelter](https://github.com/PoojaAnbalagan/Barking-Shelter)
 
 **Full Stack · REST APIs**
 
@@ -106,7 +106,7 @@ A pet-adoption platform connecting pets with potential adopters.
 </td>
 <td width="50%" valign="top">
 
-### 📊 Tourist Analysis Dashboard
+### 📊 [Tourist Analysis Dashboard](https://github.com/PoojaAnbalagan?tab=repositories)
 
 **Data Analytics · Power BI**
 
@@ -121,7 +121,7 @@ An interactive analysis of tourism data from **2019–2023**.
 <tr>
 <td width="50%" valign="top">
 
-### 🔗 Serv-in
+### 🔗 [Serv-in](https://github.com/PoojaAnbalagan/Serv-in)
 
 **Full Stack · Platform Development**
 
@@ -130,7 +130,7 @@ A service-provider platform developed collaboratively using React, Django, Postg
 </td>
 <td width="50%" valign="top">
 
-### 📡 CrowdVibe
+### 📡 [CrowdVibe](https://github.com/PoojaAnbalagan?tab=repositories)
 
 **Hackathon · Technical Communication**
 
@@ -162,7 +162,7 @@ My current engineering focus is learning how to make data products **reproducibl
 
 <img src="https://img.shields.io/badge/AURELIA%202.0-1st%20Place%20%7C%20IEEE%20WIE-854D0E?style=for-the-badge" alt="AURELIA 2.0 first place"/>
 <br/>
-<img src="https://img.shields.io/badge/J'puraXtreme%203.0-Finalist-4C1D95?style=for-the-badge" alt="J'puraXtreme 3.0 finalist"/>
+<img src="https://img.shields.io/badge/J%27puraXtreme%203.0-Finalist-4C1D95?style=for-the-badge" alt="J'puraXtreme 3.0 finalist"/>
 <img src="https://img.shields.io/badge/CodeRally%207.0-Beginner%20Tier%20Finalist-164E63?style=for-the-badge" alt="CodeRally 7.0 finalist"/>
 <br/>
 <img src="https://img.shields.io/badge/CryptX-Finalist-831843?style=for-the-badge" alt="CryptX finalist"/>
@@ -174,16 +174,8 @@ My current engineering focus is learning how to make data products **reproducibl
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PoojaAnbalagan&show_icons=true&hide_border=true&bg_color=050816&title_color=67E8F9&icon_color=A78BFA&text_color=C9D1D9&rank_icon=github" height="165" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoojaAnbalagan&layout=compact&hide_border=true&bg_color=050816&title_color=67E8F9&text_color=C9D1D9" height="165" alt="Most used languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=PoojaAnbalagan&hide_border=true&background=050816&ring=67E8F9&fire=F472B6&currStreakLabel=67E8F9&sideLabels=C9D1D9&dates=8B949E" width="80%" alt="Contribution streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PoojaAnbalagan&bg_color=050816&color=C9D1D9&line=67E8F9&point=F472B6&area=true&hide_border=true" width="98%" alt="Contribution activity graph"/>
+<a href="https://github.com/PoojaAnbalagan?tab=repositories"><img src="https://img.shields.io/badge/Explore-Public%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore public repositories"/></a>
+<a href="https://github.com/PoojaAnbalagan?tab=stars"><img src="https://img.shields.io/badge/Explore-Starred%20Projects-6E40C9?style=for-the-badge&logo=github&logoColor=white" alt="Explore starred projects"/></a>
 
 </div>
 
