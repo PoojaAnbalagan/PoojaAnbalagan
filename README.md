@@ -1,224 +1,217 @@
-<!-- Animated profile header -->
+<!-- Futuristic, motion-led profile -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Pooja%20Anbalagan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20MLOps&descAlignY=58&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=240&text=POOJA%20ANBALAGAN&fontSize=48&fontColor=ffffff&stroke=36BCF7&strokeWidth=1&animation=twinkling&color=0:090A1A,35:14213D,70:253B80,100:00D4FF&desc=DATA%20SCIENCE%20%2F%20AI%20%2F%20MLOPS&descSize=17&descAlignY=72" width="100%" alt="Neon animated profile banner"/>
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=850&color=36BCF7&center=true&vCenter=true&width=760&lines=Data+Science+Undergraduate+%F0%9F%93%8A;Machine+Learning+%26+NLP+Enthusiast+%F0%9F%A4%96;Building+practical+data-driven+solutions;Exploring+MLOps%2C+CI%2FCD+%26+Cloud+%E2%98%81%EF%B8%8F;Aspiring+Data+Scientist+%7C+ML+Engineer" alt="Animated typing introduction" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2200&pause=500&color=00D4FF&center=true&vCenter=true&repeat=true&width=850&height=65&lines=I+turn+messy+data+into+meaningful+signals.;I+build+ML+systems+that+go+beyond+notebooks.;Exploring+NLP+%2B+MLOps+%2B+Cloud.;Curious+mind.+Builder+energy.+Always+iterating." alt="Animated tagline"/>
 
-<p>
-  <a href="https://github.com/PoojaAnbalagan"><img src="https://img.shields.io/badge/GitHub-PoojaAnbalagan-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/pooja-anbalagan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="mailto:poojap356@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
-<p><b>Turning data into insights, models into applications, and ideas into useful solutions.</b></p>
-
-</div>
-
----
-
-## 👩‍💻 About Me
-
-I'm a **BSc (Hons) Data Science undergraduate at Sabaragamuwa University of Sri Lanka**. I enjoy exploring data, developing machine learning solutions, and building applications that solve practical problems.
-
-- 🔬 Interested in **Data Science, Machine Learning, NLP, and applied AI**
-- 📊 Enjoy **data cleaning, exploratory analysis, visualization, and model evaluation**
-- 📝 Working on sentiment analysis using **22K+ customer reviews**
-- 🧩 Building applications with **React, Django, and FastAPI**
-- ⚙️ Learning to make ML applications reproducible with **Docker, CI/CD, and MLOps**
-- ☁️ Exploring cloud infrastructure and production ML workflows
-- 🏆 **1st Place — IEEE WIE AURELIA 2.0 Innovation Competition**
-- 🎯 Open to learning opportunities in **Data Science, ML Engineering, and MLOps**
-
----
-
-## 🧰 Tech Stack
-
-<div align="center">
-
-### Data Science & Programming
-<img src="https://skillicons.dev/icons?i=python,r,mysql,postgres&theme=dark" alt="Python, R, MySQL and PostgreSQL"/>
-
-### Machine Learning & Analytics
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark" alt="TensorFlow and scikit-learn"/>
 <br/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
-<img src="https://img.shields.io/badge/NLP-6A5ACD?style=flat-square" alt="NLP"/>
-<img src="https://img.shields.io/badge/TF--IDF%20%7C%20VADER-4B8BBE?style=flat-square" alt="TF-IDF and VADER"/>
+<img src="https://komarev.com/ghpvc/?username=PoojaAnbalagan&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS" alt="Profile views"/>
+<a href="https://github.com/PoojaAnbalagan?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/></a>
+<a href="https://www.linkedin.com/in/pooja-anbalagan/"><img src="https://img.shields.io/badge/LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
-### Web & APIs
-<img src="https://skillicons.dev/icons?i=react,javascript,tailwind,django,fastapi&theme=dark" alt="React, JavaScript, Tailwind CSS, Django and FastAPI"/>
-
-### Databases, DevOps & Tools
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,docker,githubactions,linux,vscode&theme=dark" alt="Databases, Git, Docker, GitHub Actions, Linux and VS Code"/>
-
+<br/>
+<strong>BSc (Hons) Data Science · Sabaragamuwa University of Sri Lanka</strong>
+<br/>
+<sub>DATA → INTELLIGENCE → REAL-WORLD IMPACT</sub>
 </div>
 
 ---
 
-## 🚀 Featured Projects
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=%24+whoami;Data+Science+undergraduate;NLP+%7C+Machine+Learning+%7C+Analytics;Learning+to+ship+ML+with+MLOps" alt="Terminal-style animated identity"/>
+</div>
 
+## 01 / THE SIGNAL
+
+I'm a Data Science undergraduate interested in the full journey from **raw data to deployed intelligence**. I like asking why a model works, how well it generalizes, and what it takes to make it useful beyond a notebook.
+
+- 🧠 **Explore:** Machine Learning, NLP, sentiment analysis, applied AI
+- 📊 **Understand:** data quality, EDA, statistics, model evaluation, BI
+- 🧪 **Build:** experiments, APIs, dashboards, full-stack applications
+- ⚙️ **Ship:** Docker, CI/CD, GitHub Actions, cloud and MLOps fundamentals
+- 🏆 **Milestone:** 1st Place — IEEE WIE AURELIA 2.0 Innovation Competition
+
+---
+
+## 02 / TOOLKIT
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,r,sklearn,tensorflow&theme=dark&perline=8" alt="Data science and machine learning tools"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=pandas,numpy,mysql,postgres,sqlite&theme=dark&perline=8" alt="Data and database tools"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=react,javascript,tailwind,django,fastapi&theme=dark&perline=8" alt="Web and API technologies"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,linux,vscode&theme=dark&perline=8" alt="Engineering and DevOps tools"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/ML-Model%20Evaluation-7C3AED?style=flat-square" alt="Model evaluation"/>
+<img src="https://img.shields.io/badge/NLP-TF--IDF%20%7C%20VADER-0891B2?style=flat-square" alt="NLP techniques"/>
+<img src="https://img.shields.io/badge/Analytics-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Engineering-REST%20APIs-10B981?style=flat-square" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/Learning-Cloud%20%26%20MLOps-F97316?style=flat-square" alt="Cloud and MLOps learning"/>
+</div>
+
+---
+
+## 03 / SELECTED BUILDS
+
+<div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🍔 Customer Review Sentiment Analysis
-**NLP · Machine Learning · Python**
+<img src="https://img.shields.io/badge/01-NLP%20%2F%20ML-7C3AED?style=for-the-badge" alt="Project 1"/>
 
-Analysing customer feedback across **22K+ restaurant reviews**.
+### 🍔 Review Sentiment Intelligence
 
-- Cleaned and explored review data
-- Built a sentiment labelling and validation workflow
-- Compared Logistic Regression, Linear SVM, and Multinomial Naive Bayes
-- Evaluated performance with accuracy and Macro-F1
-- Built a Streamlit interface and containerized the app with Docker
+**22K+ customer reviews**
+
+Transforming restaurant feedback into structured sentiment insights.
+
+- Data cleaning and exploratory analysis
+- Sentiment labelling and validation workflow
+- Logistic Regression, Linear SVM, and Multinomial Naive Bayes comparisons
+- Accuracy and Macro-F1 evaluation
+- Streamlit interface + Docker containerization
 
 </td>
 <td width="50%" valign="top">
 
+<img src="https://img.shields.io/badge/02-SOCIAL%20IMPACT-EC4899?style=for-the-badge" alt="Project 2"/>
+
 ### 👩‍💻 RelaunchHer
-**React · Django · Social Impact**
 
-A platform supporting women returning to the workforce with opportunities and resources.
+A platform supporting women returning to the workforce with relevant opportunities and resources.
 
-- Collaborated across frontend and backend development
-- Practised Git-based team workflows
-- Deployed the web application
+- React + Django
+- Collaborative frontend and backend development
+- Git-based teamwork and deployment
 
-**[View live project ↗](https://relaunchher.netlify.app/)**
+**[↗ Open live project](https://relaunchher.netlify.app/)**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
+<img src="https://img.shields.io/badge/03-FULL%20STACK-06B6D4?style=for-the-badge" alt="Project 3"/>
+
 ### 🐾 Barking Shelter
-**React · Django REST Framework · MySQL**
 
 A pet adoption platform designed to connect pets with potential adopters.
 
-- Built a React and Tailwind CSS interface
-- Developed REST API workflows
-- Worked on database migration from SQLite to MySQL
+- React + Tailwind CSS
+- Django REST Framework
+- API workflows and SQLite-to-MySQL migration
 
 </td>
 <td width="50%" valign="top">
 
+<img src="https://img.shields.io/badge/04-DATA%20STORYTELLING-F59E0B?style=for-the-badge" alt="Project 4"/>
+
 ### 📊 Tourist Analysis Dashboard
-**Power BI · Data Analytics**
 
-An interactive dashboard exploring tourism data from **2019–2023**.
+Interactive exploration of tourism data from **2019–2023**.
 
-- Data cleaning and transformation
-- Tourism trend and KPI analysis
-- Interactive visualizations to support decision-making
+- Data transformation and trend analysis
+- Tourism KPIs
+- Power BI dashboard for decision support
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🤝 Serv-in
-**React · Django · PostgreSQL**
+<img src="https://img.shields.io/badge/05-PLATFORM-10B981?style=for-the-badge" alt="Project 5"/>
 
-A collaborative service-provider platform using a REST API architecture and a relational database.
+### 🤝 Serv-in
+
+Collaborative service-provider platform using React, Django, PostgreSQL, and REST APIs.
 
 </td>
 <td width="50%" valign="top">
 
-### 💬 CrowdVibe
-**HackElite 3.0 · Team Collaboration**
+<img src="https://img.shields.io/badge/06-HACKATHON-6366F1?style=for-the-badge" alt="Project 6"/>
 
-Contributed to technical documentation and helped communicate the project concept during the hackathon process.
+### 💬 CrowdVibe
+
+Contributed to technical documentation and project communication during HackElite 3.0.
 
 </td>
 </tr>
 </table>
+</div>
 
-> Explore my [repositories](https://github.com/PoojaAnbalagan?tab=repositories) for source code, experiments, and other projects.
+<div align="center">
+<a href="https://github.com/PoojaAnbalagan?tab=repositories"><img src="https://img.shields.io/badge/ALL_REPOSITORIES-View%20the%20code-111827?style=for-the-badge&logo=github" alt="All repositories"/></a>
+</div>
 
 ---
 
-## 🏆 Highlights
+## 04 / THE BUILD PIPELINE
 
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1600&pause=600&color=36BCF7&center=true&vCenter=true&width=850&height=90&lines=RAW+DATA+%E2%86%92+EDA+%E2%86%92+FEATURES;FEATURES+%E2%86%92+MODEL+%E2%86%92+EVALUATION;MODEL+%E2%86%92+API+%E2%86%92+DOCKER;DOCKER+%E2%86%92+CI%2FCD+%E2%86%92+CLOUD;DEPLOYMENT+%E2%86%92+MONITORING+%E2%86%92+ITERATION" alt="Animated machine learning delivery pipeline"/>
+</div>
 
-| Achievement | Recognition |
+My current learning goal is to understand how data products become **reproducible, testable, deployable, and maintainable systems**.
+
+| Focus area | What I'm exploring |
 |:--|:--|
-| 🥇 IEEE WIE AURELIA 2.0 | **1st Place — Innovation Competition** |
-| 🚀 J'puraXtreme 3.0 | **Finalist — Team Predictra** |
-| 💻 CodeRally 7.0 | **Grand Finale — Beginner Tier Finalist** |
-| 🧠 HackElite 3.0 | Hackathon participant / contributor |
-| 🏅 CryptX | Hackathon finalist |
+| 🧬 Data & ML | preprocessing, feature engineering, NLP, evaluation |
+| 🔌 Application layer | APIs, modular code, frontend integration |
+| 📦 Delivery | Docker, Git workflows, CI/CD fundamentals |
+| ☁️ MLOps & cloud | deployment patterns, automation, production concepts |
 
+---
+
+## 05 / MILESTONES UNLOCKED
+
+<div align="center">
+<img src="https://img.shields.io/badge/AURELIA_2.0-1st_Place-FFD700?style=for-the-badge" alt="AURELIA 2.0 first place"/>
+<img src="https://img.shields.io/badge/J'puraXtreme_3.0-Finalist-8B5CF6?style=for-the-badge" alt="J'puraXtreme finalist"/>
+<img src="https://img.shields.io/badge/CodeRally_7.0-Beginner_Tier_Finalist-06B6D4?style=for-the-badge" alt="CodeRally finalist"/>
+<img src="https://img.shields.io/badge/CryptX-Hackathon_Finalist-EC4899?style=for-the-badge" alt="CryptX finalist"/>
+<img src="https://img.shields.io/badge/HackElite_3.0-Participant-10B981?style=for-the-badge" alt="HackElite participant"/>
 </div>
 
 ---
 
-## 🛠️ My Learning Path
+## 06 / GITHUB ACTIVITY
 
 <div align="center">
-
-`DATA → ANALYSIS → MODEL → API → DOCKER → CI/CD → DEPLOYMENT → MONITORING`
-
+<img src="https://github-readme-stats.vercel.app/api?username=PoojaAnbalagan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=A78BFA&text_color=C9D1D9&rank_icon=github" height="165" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoojaAnbalagan&layout=compact&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=C9D1D9" height="165" alt="Most used languages"/>
+<br/>
+<img src="https://streak-stats.demolab.com?user=PoojaAnbalagan&hide_border=true&background=0D1117&ring=36BCF7&fire=A78BFA&currStreakLabel=36BCF7&sideLabels=C9D1D9&dates=8B949E" width="80%" alt="Contribution streak"/>
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PoojaAnbalagan&bg_color=0D1117&color=C9D1D9&line=36BCF7&point=A78BFA&area=true&hide_border=true" width="98%" alt="Contribution activity graph"/>
 </div>
 
-Currently exploring how to move beyond notebook experiments and build **reproducible, testable, deployable machine learning applications**.
-
-- **Data & ML:** preprocessing, feature engineering, NLP, model evaluation
-- **Engineering:** APIs, modular code, Git workflows, containers
-- **MLOps:** CI/CD fundamentals, automated checks, model deployment
-- **Cloud:** learning the building blocks of production systems
-
----
-
-## 📈 GitHub Dashboard
+### 🐍 Contributions in motion
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PoojaAnbalagan&show_icons=true&rank_icon=github&hide_border=true&theme=tokyonight" alt="GitHub profile statistics"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoojaAnbalagan&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages"/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=PoojaAnbalagan&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=PoojaAnbalagan&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph"/>
-
-</div>
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/PoojaAnbalagan/PoojaAnbalagan/output/github-contribution-grid-snake.svg" alt="Animated contribution snake"/>
-
+<img src="https://raw.githubusercontent.com/PoojaAnbalagan/PoojaAnbalagan/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake"/>
 </div>
 
 ---
 
-## 🌱 Beyond Technology
+## 07 / OUTSIDE THE TERMINAL
 
-✍️ Content writing · 🎨 Graphic design · 🎤 Event hosting and announcing · 💡 Innovation and problem-solving · 🎶 Music
+✍️ Content writing / 🎨 Graphic design / 🎤 Event hosting / 💡 Innovation / 🎶 Music
 
 ---
 
-## 🤝 Let's Connect
-
-I'm interested in connecting with people working in **Data Science, Machine Learning, analytics, and MLOps**—and learning through meaningful projects and collaboration.
-
 <div align="center">
 
-<a href="mailto:poojap356@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/pooja-anbalagan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/PoojaAnbalagan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2400&pause=900&color=A78BFA&center=true&vCenter=true&width=700&height=45&lines=Have+an+interesting+data+problem%3F;Let's+learn%2C+build%2C+and+ship+together." alt="Animated collaboration invitation"/>
+
+<a href="mailto:poojap356@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/pooja-anbalagan/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+<a href="https://github.com/PoojaAnbalagan"><img src="https://img.shields.io/badge/GITHUB-Follow-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <br/><br/>
-
-<i>“Building with data. Learning by doing. Improving with every iteration.”</i>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" alt="Decorative footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=blur&height=110&color=0:7C3AED,50:2563EB,100:06B6D4&section=footer" width="100%" alt="Gradient footer"/>
+<sub>Less noise. Better questions. Useful models. Real impact.</sub>
 </div>
