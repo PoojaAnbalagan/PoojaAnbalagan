@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Pooja Anbalagan — Data Science undergraduate exploring AI, machine learning, MLOps, DevOps and data engineering" />
+<img src="hero.svg" width="100%" alt="Pooja Anbalagan — Data Science undergraduate exploring AI, machine learning, MLOps, DevOps and data engineering" />
 
 <p>
   <a href="https://www.linkedin.com/in/pooja-anbalagan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
