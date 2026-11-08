@@ -178,24 +178,28 @@ A web application concept connecting people with rescued dogs and supporting res
 
 <div align="center">
 
-<a href="https://github.com/PoojaAnbalagan">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PoojaAnbalagan&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub profile statistics" />
+<a href="https://github.com/PoojaAnbalagan?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My%20Repositories-181717?style=for-the-badge&logo=github" />
 </a>
-<a href="https://github.com/PoojaAnbalagan">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoojaAnbalagan&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Most used programming languages on GitHub" />
+
+<a href="https://github.com/PoojaAnbalagan?tab=overview">
+  <img src="https://img.shields.io/badge/View-Contribution%20Activity-238636?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://github.com/PoojaAnbalagan?tab=stars">
+  <img src="https://img.shields.io/badge/Browse-Starred%20Projects-8250DF?style=for-the-badge&logo=github" />
 </a>
 
 </div>
-
-<sub>These cards are provided by an external service and may occasionally be unavailable. Visit the GitHub profile for the source activity and repositories.</sub>
-
----
 
 ## Connect
 
 <p>
   <a href="https://github.com/PoojaAnbalagan"><img src="https://img.shields.io/badge/GitHub-PoojaAnbalagan-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
   <a href="https://www.linkedin.com/in/pooja-anbalagan/"><img src="https://img.shields.io/badge/LinkedIn-Pooja%20Anbalagan-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" /></a>
+  <a href="mailto:poojaap356@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
