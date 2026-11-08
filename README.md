@@ -3,7 +3,8 @@
 <img src="hero.svg" width="100%" alt="Pooja Anbalagan — Data Science undergraduate exploring AI, machine learning, MLOps, DevOps and data engineering" />
 
 <p>
-  <a href="https://www.linkedin.com/in/pooja-anbalagan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <br>
+  <a href="https://www.linkedin.com/in/pooja-anbalagan/">  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/PoojaAnbalagan"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Data%20Engineering-6366F1?style=flat-square" alt="AI and Data Engineering" />
 </p>
@@ -37,28 +38,41 @@ My project work spans **machine learning, natural language processing, cloud-bas
 The technologies below reflect a combination of hands-on project use and ongoing learning.
 
 ### Programming
+
+<div align="center">
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,js,r,mysql&perline=8" alt="Python, Java, JavaScript, R and SQL technology icons" />
 </p>
+</div>
 
 ### Data science, analytics & AI
+
+<div align="center">
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=8" alt="PyTorch, TensorFlow, scikit-learn and OpenCV technology icons" />
 </p>
+</div>
+
 
 `Pandas` · `NumPy` · `NLTK` · `Transformers` · `Hugging Face` · `Matplotlib` · `Seaborn` · `Plotly` · `Power BI` · `ONNX`
 
 ### Backend & application development
+
+<div align="center">
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,django,react,nodejs&perline=8" alt="FastAPI, Django, React and Node.js technology icons" />
 </p>
+</div>
 
 `REST APIs` · `Uvicorn` · `Tailwind CSS` · `Prisma`
 
 ### MLOps, DevOps & cloud
+
+<div align="center">
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,git,aws,linux,prometheus&perline=8" alt="Docker, Kubernetes, GitHub Actions, Git, AWS, Linux and Prometheus technology icons" />
 </p>
+</div>
 
 `Docker Compose` · `CI/CD` · `Helm` · `Amazon S3` · `AWS Lambda` · `AWS Glue` · `Amazon Athena` · `CloudWatch`
 
@@ -194,6 +208,7 @@ A web application concept connecting people with rescued dogs and supporting res
 
 ## Connect
 
+<div align="center">
 <p>
   <a href="https://github.com/PoojaAnbalagan"><img src="https://img.shields.io/badge/GitHub-PoojaAnbalagan-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
   <a href="https://www.linkedin.com/in/pooja-anbalagan/"><img src="https://img.shields.io/badge/LinkedIn-Pooja%20Anbalagan-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" /></a>
@@ -201,6 +216,7 @@ A web application concept connecting people with rescued dogs and supporting res
   <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+</div>
 
 ---
 
